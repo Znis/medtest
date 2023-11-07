@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011821256054",
+    "project_id": "health-test-booking-app",
+    "storage_bucket": "health-test-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011821256054:android:4235a504addaf9f0eb6e57",
+        "android_client_info": {
+          "package_name": "com.example.medtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011821256054-0jlbhv8mavk073vll0o8p237avdjmbv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu6bmNmj4Tnb89DuqXuk_5E3QbvIoCoeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011821256054-0jlbhv8mavk073vll0o8p237avdjmbv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
