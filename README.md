@@ -13,6 +13,9 @@ The project folder can be opened on VS Code or Android studio. Then install the 
 
 The apk file is available in the Releases section. Download it and install on your android device.
 
+## Youtube Link Showing the Demo
+[MedTest App's Demo](https://www.youtube.com/embed/tmWcNpkbHy0)
+
 
 ## Contributing
 
